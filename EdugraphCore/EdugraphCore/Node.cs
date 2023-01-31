@@ -5,8 +5,7 @@ namespace EdugraphCore {
 
     public enum NodeType {
         Subject,
-        Knowledge
-
+        Material
     }
 
     public class Node {
@@ -21,7 +20,7 @@ namespace EdugraphCore {
                 if (Id.Any(a => char.IsLetter(a))) {
                     return NodeType.Subject;
                 } else {
-                    return NodeType.Knowledge;
+                    return NodeType.Material;
                 }
             } }
     }

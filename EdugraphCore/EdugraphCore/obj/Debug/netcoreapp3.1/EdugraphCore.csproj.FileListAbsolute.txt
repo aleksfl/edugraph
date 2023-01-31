@@ -1,0 +1,5 @@
+C:\git\edugraph\EdugraphCore\EdugraphCore\obj\Debug\netcoreapp3.1\EdugraphCore.csproj.AssemblyReference.cache
+C:\git\edugraph\EdugraphCore\EdugraphCore\obj\Debug\netcoreapp3.1\EdugraphCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\edugraph\EdugraphCore\EdugraphCore\obj\Debug\netcoreapp3.1\EdugraphCore.AssemblyInfoInputs.cache
+C:\git\edugraph\EdugraphCore\EdugraphCore\obj\Debug\netcoreapp3.1\EdugraphCore.AssemblyInfo.cs
+C:\git\edugraph\EdugraphCore\EdugraphCore\obj\Debug\netcoreapp3.1\EdugraphCore.csproj.CoreCompileInputs.cache
